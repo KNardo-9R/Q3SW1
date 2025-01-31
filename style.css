@@ -1,0 +1,50 @@
+*{
+
+}
+
+img{
+	width: 20%;
+	height: 30%;
+}
+
+body{
+	justify-content: center;
+	text-align:center;
+	background: url("mathbg.png");
+}
+
+h4{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.head{
+	padding:10px;
+	background-color: #97BDAE;
+	color:white;
+}
+
+.container{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: #FFF8DC;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.container2{
+	background-color: #97BDAE;
+	padding: 20px;
+	border-radius: 15px;
+	color: white;
+}
+
+
+.footer{
+	text-align:center;
+	background-color: whitesmoke;
+ 	color:whitesmoke;
+ 	padding:20px;
+ 	margin-top: 156px;
+}
+
